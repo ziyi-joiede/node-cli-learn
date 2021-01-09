@@ -24,6 +24,10 @@
     },
     "homepage": "https://github.com/ziyi-joiede/node-cli-learn#readme",
     "dependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-eslint": "^10.1.0",
+        "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+        "babel-preset-latest-node": "^5.2.0",
         "commander": "^6.2.1",
         "inquirer": "^7.3.3"
     }
