@@ -1,0 +1,16 @@
+{
+    "components": {},
+    "modules": {},
+    "js": [
+        "app.js",
+        "router.js",
+        "store.js",
+        "Victorinox.js"
+    ],
+    "css": [],
+    "assets": {
+        "media": [],
+        "asset": []
+    },
+    "index.html": "index.html"
+}
